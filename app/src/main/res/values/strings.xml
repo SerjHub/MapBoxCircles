@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MapBoxProject</string>
+    <string name="access_token">pk.eyJ1Ijoic2VyamlrLWRldiIsImEiOiJjamVvb2Rnb3YyY3hxMndtZ2VtYXRydWE0In0.gxHnxdHRjJsKRslmw1WJxQ</string>
+    <string name="map_style">mapbox://styles/serjik-dev/cjerpj0ng03o92snur81lee56</string>
+</resources>
